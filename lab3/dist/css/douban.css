@@ -1,0 +1,9 @@
+.m {
+    color: #006600;
+    font-size: 14px;
+    line-height: 120%;
+}
+
+body, td, th {
+    font: 12px/1.62 Helvetica,Arial,sans-serif;
+}
